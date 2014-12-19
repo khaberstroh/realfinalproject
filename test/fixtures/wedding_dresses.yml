@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  wedding_dress_name: MyString
+  wedding_dress_year: 2014-12-19
+  wedding_dress_description: MyString
+  silhouette_id: 
+  fabric_id: 
+  designer_id: 
+
+two:
+  wedding_dress_name: MyString
+  wedding_dress_year: 2014-12-19
+  wedding_dress_description: MyString
+  silhouette_id: 
+  fabric_id: 
+  designer_id: 
